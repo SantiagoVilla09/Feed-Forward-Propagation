@@ -1,3 +1,7 @@
+#== Santiago Villazón Ponce de León - A01746396 ==#
+#== Implementación de un ensamble de árboles de decisión con criterio Gini ==#
+#== Dataset: Mushrooms (UCI) - Clasificación binaria (venenoso vs comestible) ==#
+
 import os
 import sys
 import numpy as np
